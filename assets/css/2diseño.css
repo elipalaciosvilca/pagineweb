@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+
+body{
+background-image: url(/assets/img/Papel\ Craf.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background-position: center;
+ font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+
+.subtitulo{
+  text-align: center;
+  font-size: 50px;
+  border: 3px solid rgb(0, 0, 0);
+     padding: 20px;
+     text-decoration: none;
+     color: black;
+     border-radius: 30px;
+     font-weight: bold;
+     text-align: center;
+     display: inline-block;
+     margin: 30px;
+     background-color: white;
+}
+
+.letras{
+    text-align: center;
+    font-size: 35px;
+
+}
+
+.information-Izquierda{
+   display: flex;
+   justify-content: center;
+}
+
+img{
+    width: 20% ;
+    height: 20%;
+    margin-left:100px ;
+    float:left;
+}
+
+.curva{
+    text-align: center;
+  border: 2px solid rgb(0, 0, 0);
+     color: black;
+     border-radius: 10px;
+     font-weight: bold;
+     text-align: center;
+     display: inline-block;
+     margin: 1px;
+     background-color:antiquewhite;
+     width: 810px;
+     height:200px;
+     
+}
+.acti{
+  transform: rotate(-10deg);
+}
+
+
+.information-Derecho{
+  display: flex;
+  justify-content: center;
+}
+
+.comida{
+  width: 40%;
+  height: 100%;
+  float: right;
+  margin-right: 110%;
+  margin-top: -150px;
+  transform: rotate(10deg);
+}
+
+.recta{
+  text-align: center;
+  border: 2px solid rgb(0, 0, 0);
+     color: black;
+     border-radius: 10px;
+     font-weight: bold;
+     text-align: center;
+     display: inline-block;
+     margin: 40px;
+     margin-right: 10px;
+     background-color:antiquewhite;
+     width: 810px;
+     height:200px;
+     margin-left: 20%;
+     
+}
+
+
+
+
+.Container05{
+  display: flex;
+  justify-content: center;
+}
+
+
+.exercise{
+  width: 15% ;
+  height: 5%;
+  margin-left:100px ;
+  float:left;
+  transform: rotate(-10deg);
+}
+
+#ondular{
+  text-align: center;
+  border: 2px solid rgb(0, 0, 0);
+     color: black;
+     border-radius: 10px;
+     font-weight: bold;
+     text-align: center;
+     display: inline-block;
+     margin: 1px;
+     background-color:antiquewhite;
+     width: 810px;
+     height:200px;
+}
+
+
+.a{
+  border: 3px solid #fff;
+  padding: 20px;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  border-radius: 30px;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+  margin: 30px;
+  background-color:antiquewhite
+}
+.enlace{
+  text-align: right;
+}
+
